@@ -38,7 +38,7 @@ Animation in C++ Using Loops
             for(j=0;j<1000000;j++);
             system("cls");
 }
-          cout<<"                                 "<< a <<"                               ";
+          cout<<"                    "<< a <<"                               ";
  }
  int main()
  {
